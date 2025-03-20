@@ -39,6 +39,3 @@ EMAIL_PASSWORD=your-app-password</code></pre>
   <li>Input a comma-separated list of email addresses to receive alerts.</li>
   <li>Modify the log file path if necessary.</li>
 </ul>
-
-<h2>License:</h2>
-<p>MIT License</p>
